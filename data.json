@@ -71,21 +71,10 @@
 			"name": "February break",
 			"time": [
 				1739750400,
-				1739923199
-			],
-			"date": [
-				"Monday 17th February",
-				"Tuesday 18th February"
-			]
-		},
-		{
-			"name": "In-Service Day",
-			"time": [
-				1739923200,
 				1740009599
 			],
 			"date": [
-				"Wednesday 19th February",
+				"Monday 17th February",
 				"Wednesday 19th February"
 			]
 		},
